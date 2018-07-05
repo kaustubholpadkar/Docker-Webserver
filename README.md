@@ -65,3 +65,5 @@ sudo docker port static-linearregression
 ```terminal
 80/tcp -> 0.0.0.0:32771
 ```
+
+You can open http://localhost:32771 in your browser.
